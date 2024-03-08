@@ -5,9 +5,9 @@
 ## Is Success Luck or Hard Work? - by Veritasium
 
 
-[](./result2.png)
+![](./result2.png)
 num_test: 1000
 
-[](./result.png)
+![](./result.png)
 num_test: 200
 
